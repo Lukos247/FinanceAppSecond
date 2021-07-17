@@ -214,6 +214,12 @@ Firebase - это аналитическая служба, предоставл�
 
 Firebase is analytics service provided by Google Inc.
 
+Пример расчета: для займа в размере 23000 ₽ на срок 77 дней, сумма ежемесячного платежа составит 13570 ₽, итоговая сумма погашения за 3 месяца 40710 ₽, переплата 17710 ₽.
+
+Формула расчета 23000 ₽ + ( 23000 ₽ * ставка 1% в день * 77 дней ) = 40710 ₽
+
+ПСК (полная стоимость кредита) в процентах составляет 77% годовых.
+
 You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
 
 We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245.
