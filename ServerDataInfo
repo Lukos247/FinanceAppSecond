@@ -7,19 +7,31 @@
   "offersMainMenu": [
     {
       "country": "RU",
-      "iconForUpload": "https://joor.me/uploads/image/2020-09-15/85/2f/B2vSq84a3ycz_uqqbhp0yActkjEKIIvr.png",
+      "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
+      "titleOfMenuElemnt": "Рефинансирование займов и кредиты",
+      "offersTypeId": "1"
+    },
+    {
+      "country": "RU",
+      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
+      "titleOfMenuElemnt": "Займы",
+      "offersTypeId": "2"
+    },
+    {
+      "country": "RU",
+      "iconForUpload": "https://www.profi-credit.ru/upload/medialibrary/2c5/2c59dab07683b290ddf4082f35b54cdc.png",
       "titleOfMenuElemnt": "Кредитные карты",
       "offersTypeId": "3"
     },
     {
       "country": "RU",
-      "iconForUpload": "https://www.pngkey.com/png/full/270-2702079_loan-png-loan-money-lend-money-png.png",
+      "iconForUpload": "https://cdn.pixabay.com/photo/2018/06/08/00/50/credit-3461411_1280.png",
       "titleOfMenuElemnt": "Дебетовые карты",
       "offersTypeId": "4"
     },
     {
       "country": "UA",
-      "iconForUpload": "https://refinansirovanie-ipoteki.ru/wp-content/uploads/2017/11/chto-nuzhno-dlya-refinansirovaniya-ipoteki.png",
+      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
       "titleOfMenuElemnt": "Займы",
       "offersTypeId": "2"
     },
@@ -76,6 +88,16 @@
       "rating": "5/5",
       "offerDescription": "Один займ, а не много разных микрокредитов в разных компаниях и сервисах",
       "fullDescription": "Один займ, а не много разных микрокредитов в разных компаниях и сервисах.Ниже переплата, потому что наша ставка в 10 раз ниже чем по обычным займам.Удобно и надежно, вы сами выбираете сколько и в какой день платить и все полностью онлайн Дополнительные - 50 тысяч рублей, если вам сейчас нужны дополнительные средства"
+    },
+	{
+      "country": "RU",
+      "offerTypeId": "1",
+      "subId": "68",
+      "iconForUpload": "https://zaimme.ru/wp-content/uploads/2018/07/turbozaim-icon.png",
+      "offerTitle": "Турбозайм",
+      "rating": "5/5",
+      "offerDescription": "Сумма займа от 3000 до 50 000 руб.",
+      "fullDescription": "Требования к заемщику: Возраст от 21 до 65. Гражданство РФ"
     },
 	{
       "country": "RU",
