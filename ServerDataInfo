@@ -49,6 +49,16 @@
     }
   ],
   "offersList": [
+{
+      "country": "RU",
+      "offerTypeId": "2",
+      "subId": "10",
+      "iconForUpload": "https://habrastorage.org/getpro/moikrug/uploads/company/999/993/917/logo/medium_618e5eef863c36af6b934319df792356.png",
+      "offerTitle": "еКапуста",
+      "rating": "5/5",
+      "offerDescription": "Топ 1 в РФ",
+      "fullDescription": "Займы предоставляются без обеспечения, в том числе без залога и поручительства."
+    },
 	{
       "country": "RU",
       "offerTypeId": "2",
@@ -140,16 +150,7 @@
       "offerDescription": "Решение по заявке за 3 минуты!",
       "fullDescription": "·Гражданин РФ в возрасте от 21 до 68 лет. ·Зарегистрированы в регионе присутствия банка. Минимальный ежемесячный доход по основному месту работы после налогообложения 15 000 рублей"
     },
-	{
-      "country": "RU",
-      "offerTypeId": "2",
-      "subId": "10",
-      "iconForUpload": "https://habrastorage.org/getpro/moikrug/uploads/company/999/993/917/logo/medium_618e5eef863c36af6b934319df792356.png",
-      "offerTitle": "еКапуста",
-      "rating": "5/5",
-      "offerDescription": "Топ 1 в РФ",
-      "fullDescription": "Займы предоставляются без обеспечения, в том числе без залога и поручительства."
-    },
+
 	{
       "country": "RU",
       "offerTypeId": "2",
