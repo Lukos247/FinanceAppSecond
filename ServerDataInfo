@@ -5,18 +5,7 @@
     "KZ"
   ],
   "offersMainMenu": [
-    {
-      "country": "RU",
-      "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
-      "titleOfMenuElemnt": "Рефинансирование займов и кредиты",
-      "offersTypeId": "1"
-    },
-    {
-      "country": "RU",
-      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
-      "titleOfMenuElemnt": "Займы",
-      "offersTypeId": "2"
-    },
+   
     {
       "country": "RU",
       "iconForUpload": "https://www.profi-credit.ru/upload/medialibrary/2c5/2c59dab07683b290ddf4082f35b54cdc.png",
@@ -31,22 +20,11 @@
     },
     {
       "country": "UA",
-      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
-      "titleOfMenuElemnt": "Займы",
-      "offersTypeId": "2"
-    },
-    {
-      "country": "UA",
       "iconForUpload": "https://financer.com/app/uploads/sites/25/2020/07/loan-calculator.png",
       "titleOfMenuElemnt": "Банковские кредиты",
       "offersTypeId": "1"
     },
-    {
-      "country": "KZ",
-      "iconForUpload": "https://ortmen.ru/upload/medialibrary/1d1/1d10d0a1b8b6b5c7ae8c86048b19556b.png",
-      "titleOfMenuElemnt": "Займы",
-      "offersTypeId": "2"
-    }
+  
   ],
   "offersList": [
 {
